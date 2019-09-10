@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am canale95 on github.
+  * I am canale95 (https://keybase.io/canale95) on keybase.
+  * I have a public key ASD0hw0GJLdKcHJLBeSOI_N7mxb0mlZj9tMats6RrnGcqwo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f4870d0624b74a70724b05e48e23f37b9b16f49a5663f6d31ab6ce91ae719cab0a",
+      "host": "keybase.io",
+      "kid": "0120f4870d0624b74a70724b05e48e23f37b9b16f49a5663f6d31ab6ce91ae719cab0a",
+      "uid": "3ccef98850dc7695fb011e39347a0d19",
+      "username": "canale95"
+    },
+    "merkle_root": {
+      "ctime": 1568118325,
+      "hash": "ef9db6e46aecd86746e9d4836e8eaaec54d34df024449ebc76cb40cceb57a85980a379c3c983f1895037b9a8adc9bcecd33b6c9b0bda9618ef53cfca2c68cd2d",
+      "hash_meta": "d72fba83ed01fd95e4d26eea54be1ad0455556dc74b2754ad0f940bd14367e63",
+      "seqno": 6399307
+    },
+    "service": {
+      "entropy": "xVqN/P1MiaCNkNFZhX2vemAe",
+      "name": "github",
+      "username": "canale95"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568118331,
+  "expire_in": 504576000,
+  "prev": "33845c18b3e88e305a3e6fb24752d4982ed3bcbb0a6a0658264030a4d08ef068",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+
+with the key [ASD0hw0GJLdKcHJLBeSOI_N7mxb0mlZj9tMats6RrnGcqwo](https://keybase.io/canale95), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9IcNBiS3SnBySwXkjiPze5sW9JpWY/bTGrbOka5xnKsKp3BheWxvYWTESpcCB8QgM4RcGLPojjBaPm+yR1LUmC7TvLsKagZYJkAwpNCO8GjEIIiK53XetE8ECxPJKE2xRIubAhTB882zMTt7MU4vgxfoAgHCo3NpZ8RA0f/E8lomhhSNtjKRgF2MSUl2vnJLmlc37iCuejJmZ21cBk8yXtLouYcvtnRj9NmM4l/dKBygzQK8VGNzJRTrDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJdhFw7x+qAqzdaVrm0w04sMyizNJtA87lxVNTydSjY/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/canale95
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id canale95
